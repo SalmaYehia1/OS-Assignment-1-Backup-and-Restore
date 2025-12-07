@@ -1,5 +1,3 @@
-
-
 ````markdown
 # Assignment 1 – Backup & Restore Scripts
 
@@ -278,14 +276,10 @@ chmod +x src/backupd-cron.sh
 
 -----
 
-
-
 ## Part 5: Sample Run
 
 ```
 ```
-
-
 ![Screen 1]( images//screen1.jpg)
 
 ![Screen 2]( images//screen2.jpg)
